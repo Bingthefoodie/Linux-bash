@@ -1,6 +1,6 @@
 #!/bin/bash
 #Cst8102- Lab9
-#Name: Bing Xie, student number:041069827	
+#Name: Bing Xie	
 #labsection 320
 #2022-11-24
 #file name: mycalc.sh
